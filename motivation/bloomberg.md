@@ -11,4 +11,7 @@ I found software development/programming always been very engaging for reasons l
 3. Most importantly, it requires logical thinking, analytical approach and those are my core strength since childhood. 
 
 In short, I believe software engineer career will help of exploit my full creative potential and help me achieve 
-my ultimate professional ambition, which is to work at the frontiers of technological innovation by contributing with original ideas and translating those ideas to develop high-end applications and products and be part of something that is valuable for society in whatever way I can. So why not?
+my ultimate professional ambition, which is to work at the frontiers of technological innovation by contributing with original ideas and translating those ideas to develop high-end applications and products and be part of something that is valuable for society in whatever way I can. 
+
+
+I always found software development very engaging for reasons 1. We can exploit the true potential of computational resources with well-written software, which makes bare machines tractable by humans through well-defined logic. 2.Highly scalable softwares have made it possible to serve millions of users on a single platform concurrently. 3. Most importantly, it requires logical thinking, analytical approach and those are my core strength since childhood. In short, I believe software engineer career will help me achieve my ultimate professional ambition, which is to work at the frontiers of technological innovation by contributing with original ideas and translating those ideas to develop high-end applications and products.
