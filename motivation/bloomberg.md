@@ -2,15 +2,12 @@
 
 > Please explain in no more than 100 words why you are interested in a career as a Software Developer?
 
-Software unleashes ultimate informational power.
+Because software exploits the true potential of computational resources, make them tractable by humans by 
+1.automating repetive operations through well defined logical 
 
-With it, we can create virtual machines that:
+My ultimate professional ambition, which is to work at the frontiers of technological innovation in the software industry by contributing with original ideas and translating those ideas to develop high-end applications and products.
 
-- replicate infinitely
-- never get tired
-- follow well determined basic rules
-- can do GHz of serial operations
-- send data across continents in times smaller than human perception
+
 
 at a cost that most people can afford.
 
